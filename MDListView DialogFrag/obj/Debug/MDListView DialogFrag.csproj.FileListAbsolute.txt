@@ -1,0 +1,28 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\bin\Debug\MDListView DialogFrag.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\bin\Debug\MDListView DialogFrag.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\bin\Debug\MDListView_DialogFrag.MDListView_DialogFrag.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\bin\Debug\MDListView_DialogFrag.MDListView_DialogFrag-Signed.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\MDListView DialogFrag.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\MDListView DialogFrag.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\android\bin\MDListView_DialogFrag.MDListView_DialogFrag.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\layout\spacecraftdetail.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\layout\model.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\layout\main.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\values\strings.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\icon.png
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\apollo.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\challenger.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\columbia.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\enterprise.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\hubble.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\kepler.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\opportunity.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\pioneer.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\rosetta.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\spitzer.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\voyager.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\res\drawable\wmap.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\R.cs.flag
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\uploadflags.txt
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\obj\Debug\MDListView DialogFrag.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\MDListView DialogFrag\MDListView DialogFrag\bin\Debug\MDListView DialogFrag.dll.mdb
